@@ -63,9 +63,8 @@ JavaScript, ou JS é uma linguagem de programação, sendo a principal linguagem
 
 Framework JavaScript é uma estrutura de desenvolvimento que fornece um conjunto de ferramentas, bibliotecas e convenções para simplificar o processo de criação de aplicativos web ou móveis utilizando a linguagem JavaScript.
 
-- React
 - Vue
-- Angular
+- Nuxt
 
 
 ## Contribuição ✨
