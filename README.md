@@ -69,7 +69,7 @@ Framework JavaScript é uma estrutura de desenvolvimento que fornece um conjunto
 
 ## Contribuição ✨
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/webkennyroger/roadmap-frontend/CONTRIBUTING.md)** e a **[licença](https://github.com/webkennyroger/roadmap-frontend/blob/main/LICENSE.md)**. Guerreiros(as)  juntos alcançaremos nosso triunfo! 
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/webkennyroger/Roadmap-Frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/webkennyroger/roadmap-frontend/blob/main/LICENSE.md)**. Guerreiros(as)  juntos alcançaremos nosso triunfo! 
 
 ## cuidado com esse mundo viciante do frontend ❤️
 
